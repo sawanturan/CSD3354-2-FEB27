@@ -35,6 +35,7 @@ namespace FEB27
             };
         }
     }
+
     public class ShippingCalculator
     {
         public float CalculateShipping(Order order)
